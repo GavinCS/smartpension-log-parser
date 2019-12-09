@@ -7,7 +7,7 @@ Returns
   
 ## Assumptions  
 - Log file will always be in the format ```page ip```  
-- ```page ip``` fomrat is always slit by only 1 space  
+- ```page ip``` format is always slit by only 1 space  
   
 ## Approach  
 In order to sort and group the pages in the log into the required order and format I did the following.  
